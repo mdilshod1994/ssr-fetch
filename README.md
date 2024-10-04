@@ -4,10 +4,8 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 ## Setup
 
-# pnpm
 pnpm install
 
 ## Development Server
 
-# pnpm
 pnpm run dev
